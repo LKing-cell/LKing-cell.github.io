@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat]([https://github.com/LKing-cell/LKing-cell.github.io/blob/master/assets/images/53973468134_6111c5f2a8_w.jpg?raw=true])
 
 ### Large image
 
